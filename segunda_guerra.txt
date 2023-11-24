@@ -1,0 +1,7 @@
+ChatGPT es un modelo de lenguaje desarrollado por OpenAI, específicamente pertenece a la familia de modelos GPT (Generative Pre-trained Transformer). GPT se destaca por su capacidad para generar texto coherente y contextualmente relevante. La versión específica de GPT a la que me refiero es GPT-3.5, que es la tercera iteración y una de las versiones más avanzadas de esta serie.
+
+La "G" en GPT significa "Generative", lo que indica que el modelo tiene la capacidad de generar texto y contenido. "PT" significa "Pre-trained", ya que estos modelos son entrenados en grandes cantidades de datos antes de ser afinados para tareas específicas.
+
+ChatGPT está diseñado para responder preguntas, generar texto conversacional y realizar tareas relacionadas con el procesamiento del lenguaje natural. Puede entender y generar texto en varios contextos y es capaz de realizar tareas como traducción, resumen de texto, respuestas a preguntas y más.
+
+Es importante tener en cuenta que mi conocimiento se basa en información hasta enero de 2022, por lo que puede haber desarrollos adicionales en modelos de lenguaje después de esa fecha.
